@@ -13,8 +13,8 @@ the right way - or is it [the hard way](https://www.amazon.com/Learn-Python-Hard
 This API consumes data made available by 
 the good people of [CSSE at Johns Hopkins](https://github.com/CSSEGISandData/COVID-19) - 
 all I am doing is transforming the [.csv](https://en.wikipedia.org/wiki/Comma-separated_values) 
-data and making it sexier :kissing_closed_eyes:.. So if you are looking for people to thank, 
-please thank them:clap:, buy them :beers: on my behalf :grinning:
+data and making it sexier :kissing_closed_eyes:.. So if you wanna thank someone, 
+please thank the [CSSE guys](https://systems.jhu.edu/) :clap:, buy them :beers: on my behalf :grinning:
 
 #### Prerequisite
 + [Python](https://www.python.org/downloads/)
