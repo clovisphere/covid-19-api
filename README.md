@@ -36,7 +36,7 @@ $ pipenv shell
 $ ./run.py
 ```
 
-##### TO BE ADDED: API Documentation
+###### API Documentation
 
 (_work in progress_)
 
