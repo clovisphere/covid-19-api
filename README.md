@@ -36,4 +36,8 @@ $ pipenv shell
 $ ./run.py
 ```
 
+##### TO BE ADDED: API Documentation
+
+(_work in progress_)
+
 Enjoy :v::sunglasses:
