@@ -24,3 +24,14 @@ please thank them:clap:, buy them :beers: on my behalf :grinning:
 ```bash
 $ git clone https://github.com/clovisphere/covid-19-api.git
 ```
+2. To bring to life your setup :stars: :rocket:
+
+```bash
+$ cd myproject # this repo
+$ pipenv --python 3
+$ pipenv install
+$ pipenv shell
+$ ./run.py
+```
+
+Enjoy :v::sunglasses:
