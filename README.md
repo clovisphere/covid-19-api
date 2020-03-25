@@ -6,6 +6,8 @@ would be an interersting weekend hack, and a good way
 to learn both [Python](https://www.python.org/) and [Flask](https://palletsprojects.com/p/flask/) 
 the right way - or is it [the hard way](https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0134692888)?
 
+![How to use](screenshot/covid-19-api.gif)
+
 ## Important information
 
 This API consumes data made available by 
