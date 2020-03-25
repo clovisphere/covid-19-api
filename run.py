@@ -9,7 +9,7 @@ from app.api_v1.stat import populate_stat_table, update_stat_table
 if __name__ == '__main__':
     app = create_app(os.environ.get('FLASK_ENV', 'development'))
     with app.app_context():
-        # TODO: this for development, should be removed.
+        # TODO: this is ONLY for development, it'd should be removed in PROD.
         db.drop_all()
         db.create_all() 
         # populate statistics table
