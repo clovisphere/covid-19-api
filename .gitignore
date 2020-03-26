@@ -35,6 +35,9 @@ nosetests.xml
 .project
 .pydevproject
 
+# Mac OS
+.DS_Store
+
 # SQLite databases
 *.sqlite
 
