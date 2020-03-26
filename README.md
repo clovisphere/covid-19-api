@@ -3,7 +3,7 @@
 What if we could use [Flask](https://palletsprojects.com/p/flask/) 
 to build a basic [COVID-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) API? I thought this 
 would be an interesting weekend hack project, and a good way 
-to learn both [Python](https://www.python.org/) and [Flask](https://palletsprojects.com/p/flask/) 
+to dive into [Python](https://www.python.org/) and [Flask](https://palletsprojects.com/p/flask/) 
 the right way - or is it [the hard way](https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0134692888)?
 
 ![How to use](screenshot/covid-19-api.gif)
