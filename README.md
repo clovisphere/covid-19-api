@@ -11,10 +11,10 @@ the right way - or is it [the hard way](https://www.amazon.com/Learn-Python-Hard
 ## Important information
 
 This API consumes data made available by 
-the good people of [CSSE at Johns Hopkins](https://github.com/CSSEGISandData/COVID-19) - 
+the good people of [JHU - CSSE](https://github.com/CSSEGISandData/COVID-19) - 
 all I am doing is transforming the [.csv](https://en.wikipedia.org/wiki/Comma-separated_values) 
 data and making it sexier :kissing_closed_eyes:.. So if you wanna thank someone, 
-please thank the [CSSE guys](https://systems.jhu.edu/) :clap: and buy them :beers: on my behalf.
+please thank the [JHU - CSSE](https://systems.jhu.edu/) guys :clap: and buy them :beers: on my behalf.
 
 #### Prerequisite
 + [Python](https://www.python.org/downloads/)
